@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[35],{429:function(t,i,n){"use strict";n.r(i);var s=n(8),e=Object(s.a)({},(function(){var t=this.$createElement,i=this._self._c||t;return i("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[i("p",[this._v("Bu birinchi loyiha to'g'risida ma'lumot.")])])}),[],!1,null,null,null);i.default=e.exports}}]);
